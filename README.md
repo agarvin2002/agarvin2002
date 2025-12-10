@@ -26,7 +26,7 @@ I enjoy designing microservices, event-driven architectures, and solving enginee
 
 ### 🛠 Backend & Architecture
 - Node.js • JavaScript • TypeScript  
-- Express • Fastify • FastAPI  
+- Express • Fastify  
 - Microservices • Event-driven systems • Async processing  
 
 ### 🗄 Databases
