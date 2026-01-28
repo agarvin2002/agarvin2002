@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Integrations;Microservices+%7C+Event+Driven+Architecture;200%2B+LeetCode+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Integrations;Microservices+%7C+Event+Driven+Architecture" />
 </p>
 
 # Hi, I'm Agarvin 👋  
@@ -44,13 +44,3 @@ I enjoy designing microservices, event-driven architectures, and solving enginee
 - Microservice communication patterns  
 - Developer tooling & clean backend design  
 
----
-
-## 🧠 Coding Profiles
-<p>
-  <a href="https://leetcode.com/u/agarvin2002/">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
