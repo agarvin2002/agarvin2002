@@ -1,46 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Integrations;Microservices+%7C+Event+Driven+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=650&lines=hey+there+%F0%9F%91%8B+i'm+Agarvin;AI+Backend+Engineer;I+build+things+with+LLMs+%F0%9F%A4%96;RAG+%7C+Agentic+Workflows+%7C+Microservices" />
 </p>
 
-# Hi, I'm Agarvin 👋  
-
-## 📫 Contact
-<p>
+<p align="center">
   <a href="mailto:agarvin2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agarvin2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-agarvin2002-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/agarvin-bouminadane">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-agarvin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/agarvin2002">
+    <img src="https://img.shields.io/badge/GitHub-agarvin2002-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Backend developer focused on building scalable systems and integrating complex third-party APIs.  
-I enjoy designing microservices, event-driven architectures, and solving engineering problems that improve performance and reliability.
+### 👋 about me
+
+i'm an AI backend engineer based in Chennai — i spend most of my time building RAG pipelines, wiring up LLMs, and making sure APIs don't fall over under load.
+
+currently working with **Node.js**, **Python**, and **Django REST Framework** to ship production-grade AI systems — think agentic workflows, document extraction, vector search, the whole nine yards.
+
+> _"ship it, monitor it, fix it — repeat"_
 
 ---
 
-## 🔧 Skills & Technologies
+### 🛠 what i work with
 
-### 🛠 Backend & Architecture
-- Node.js • JavaScript • TypeScript  
-- Express • Fastify  
-- Microservices • Event-driven systems • Async processing  
+**languages**
+`JavaScript` `Python` `SQL` `Bash`
 
-### 🗄 Databases
-- PostgreSQL • MongoDB • Redis  
+**backend & AI**
+`Node.js` `Express.js` `Django REST Framework` `LangChain` `LangGraph` `BullMQ` `Celery`
+`OpenAI API` `Anthropic API` `Hugging Face` `Sentence Transformers`
 
-### ⚙️ DevOps & Tools
-- Docker • Jenkins • AWS • Git  
-- VS Code • Cursor • Claude Code • LocalStack  
+**databases**
+`PostgreSQL` `pgvector` `MongoDB` `Redis`
+
+**cloud & infra**
+`AWS` `Docker` `GitHub Actions` `Terraform` `Nginx` `Linux`
 
 ---
-
-## 🤝 Interests & Contributions
-- Backend infrastructure & API architecture  
-- Workflow automation & system performance  
-- Microservice communication patterns  
-- Developer tooling & clean backend design  
-
