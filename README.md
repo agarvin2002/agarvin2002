@@ -56,12 +56,16 @@ currently working with **Node.js**, **Python**, and **Django REST Framework** to
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agarvin2002&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarvin2002&theme=dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarvin2002&layout=compact&theme=dark&hide_border=true" height="130" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agarvin2002&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agarvin2002&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agarvin2002&theme=github_dark" />
 </p>
 
 ---
